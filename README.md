@@ -1,10 +1,11 @@
 # RetailStore
 
 1.) Download the zip file of the project from the link https://github.com/SnehaAitha/RetailStore.git
-2.) Right click the project -> Run As -> Maven Build -> Enter Goal -> spring-boot:run
+2.) Right click the project -> Run As -> Maven Build -> Enter Goal -> spring-boot:run  to run the project.
 3.) The project starts on the default port 8080.
 4.) Hit the API with the URL request (http://localhost:8080/api/bill/{id}) .
-// id values in the mock repository are 1,2,3,4.
+// id values in the mock repository are 1,2,3,4. 
+Ex : http://localhost:8080/api/bill/1
 5.) The API request return the final bill amount for a bill id/order id.
 6.) The mock data has 4 Users with 4 Orders each wherein each order has 3 Products each.
 7.) The bill amount is calculated as the sum of the individual products ordered.
