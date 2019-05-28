@@ -11,4 +11,4 @@ Ex : http://localhost:8080/api/bill/1
 7.) The bill amount is calculated as the sum of the individual products ordered.
 8.) The final bill amount is calculated deducting the discounted amount from the actual bill amount(discount is calculated based on the rules given in the assessment).
 9.) The mock data is entered in such a way that all the test cases can be covered i.e Bill id 1 belongs to user with user id 1 where he is the employee of the store,Bill id 2 belongs to User with user id 2 where he is the affiliate,Bill id 4 belongs to user with user id 4 where he is the customer over 2 years with the store.
-10.) Dicount is ommitted for grocery products.
+10.) Discount is ommitted for grocery products.
