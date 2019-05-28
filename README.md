@@ -23,3 +23,5 @@ Ex : http://localhost:8080/api/bill/1
 9.) The mock data is entered in such a way that all the test cases can be covered i.e Bill id 1 belongs to user with user id 1 where he is the employee of the store,Bill id 2 belongs to User with user id 2 where he is the affiliate,Bill id 4 belongs to user with user id 4 where he is the customer over 2 years with the store.
 
 10.) Discount is ommitted for grocery products.
+
+11.) Run RetailStoreDiscountApplicationTests.java class to run the junit tests for the services written in UserService.java class.
