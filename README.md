@@ -12,6 +12,8 @@
 
 Ex : http://localhost:8080/api/bill/1
 
+//can be tested on rest clients like Post man, ARC (Advanced Rest Client).
+
 5.) The API request return the final bill amount for a bill id/order id.
 
 6.) The mock data has 4 Users with 4 Orders each wherein each order has 3 Products each.
