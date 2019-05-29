@@ -28,3 +28,6 @@ Ex : http://localhost:8080/api/bill/1
 
 11.) Run RetailStoreDiscountApplicationTests.java class to run the junit tests for the services written in UserService.java class.
 (Right click -> Run as -> Junit Test)
+
+12.) Run "clean test" goal on maven. JaCoCo code coverage report will be generated at target/site/jacoco/.
+Open the target/site/jacoco/index.html file to review the code coverage report.
