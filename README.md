@@ -25,4 +25,4 @@ Ex : http://localhost:8080/api/bill/1
 10.) Discount is ommitted for grocery products.
 
 11.) Run RetailStoreDiscountApplicationTests.java class to run the junit tests for the services written in UserService.java class.
-(Right click -> Run as -> Junit)
+(Right click -> Run as -> Junit Test)
